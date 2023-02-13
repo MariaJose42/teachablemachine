@@ -40,7 +40,7 @@ function draw(){
     image(flippedVideo, 0, 0);
 
 
-    if(label == "Pablo"){
+    if(label == "María José"){
         // Draw the label
         fill(255,0,0);
     }else{
